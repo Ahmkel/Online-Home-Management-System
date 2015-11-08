@@ -29,6 +29,6 @@ Parts Needed:
 
 5- 3x LEDs
 
----
+------------------------------------------------------
 
 The project is also uploaded on Hackster: https://www.hackster.io/ahmedel-hinidy2014/home-management-system-control-your-home-from-a-website-076846
