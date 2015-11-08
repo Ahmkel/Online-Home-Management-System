@@ -13,8 +13,6 @@ The project consists of three parts:
 
 3- The Arduino Code which monitors the input signal of the sensors, controls the output signal of the actuators and consumes the Backend API.
 
-The project is also uploaded on Hackster: https://www.hackster.io/ahmedel-hinidy2014/home-management-system-control-your-home-from-a-website-076846
-
 -----
 
 Parts Needed:
@@ -28,3 +26,5 @@ Parts Needed:
 4- PIR Motion Sensor
 
 5- 3x LEDs
+
+--The project is also uploaded on Hackster: https://www.hackster.io/ahmedel-hinidy2014/home-management-system-control-your-home-from-a-website-076846
